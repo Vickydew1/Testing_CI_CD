@@ -1,0 +1,12 @@
+{
+  "name": "sample-ci-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No test suite configured\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.19.0"
+  }
+}
